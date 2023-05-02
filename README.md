@@ -2,7 +2,6 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hi💕&fontSize=50) -->
 ## 안녕하세요, 제 GitHub에 방문해 주셔서 감사합니다 😉👋🏻
-함께 일하고 싶은 개발자가 되고 싶습니다 👩🏻<br />
   기록하는 습관과 의사소통을 중요하게 생각합니다.
 
 ### 👩🏻‍💻 Stacks
